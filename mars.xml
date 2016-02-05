@@ -22,7 +22,7 @@
                     <mutation else="1"></mutation>
                     <value name="IF0">
                       <block type="logic_compare" id="8" inline="true">
-                        <field name="OP">LT</field>
+                        <field name="OP">GT</field>
                         <value name="A">
                           <block type="sensor_spectrometer" id="9">
                             <field name="LIGHT">YELLOW</field>
