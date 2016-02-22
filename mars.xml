@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_cleardisplay" id="1" x="63" y="124">
+  <block type="oled_cleardisplay" id="1" x="37" y="101">
     <next>
       <block type="controls_whileUntil" id="2" inline="false">
         <field name="MODE">UNTIL</field>
